@@ -1,7 +1,4 @@
-test abc
-hfhjgkj
-vfj gh
-jhf jgjkg
-jhgkj
-  iiiiiiiiiiiiiiiiiiiiiiiiii
+main method (){
+	syeste.out.print("test");
+}
 
